@@ -94,6 +94,7 @@ Effectiveness: The Kalman Filter offers a better recall while maintaining high p
 The high precision values confirms that both the detection mechanisms are accurately distinguishing between normal and anomalous data points based on the defined thresholds.
 
 4.3.	Comparison:
+
 ![image](https://github.com/user-attachments/assets/4a330ae7-1291-4b96-b0bc-f279af26d182)
 
 
